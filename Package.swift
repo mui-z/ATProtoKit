@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "ATProtoKit",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v15),
         .macOS(.v12),
         .tvOS(.v13),
         .visionOS(.v1),
